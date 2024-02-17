@@ -2,12 +2,13 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#:      |     |
-| -------------- | --- |
-| Student Names: |     |
-|                |     |
-|                |     |
-|                |     |
+| Group: 3         |
+|------------------|
+| Aemen            |   
+| Jauhar           |   
+| Muhammad         |   
+| Shaun            |   
+| Soumini          |  
 
 # 1 Introduction
 
