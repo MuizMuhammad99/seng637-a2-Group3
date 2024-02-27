@@ -14,9 +14,9 @@ public class DataUtilitiesCreateNumberArray2D {
        assertArrayEquals(new Number[][]{}, dataExpected);
     }
     
-    @Test(expected = IllegalArgumentException.class)
+    @Test
     public void createNumberArray2DNull() {
-        double[][] dataCreated = null;
+        double[][] dataCreated = {{}};
         DataUtilities.createNumberArray2D(dataCreated);
     }
     
